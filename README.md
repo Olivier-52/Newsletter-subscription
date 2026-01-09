@@ -9,7 +9,7 @@ This project involves exploratory data analysis and the search for a supervised 
 ## ✨ Features
 - Exploratory analysis : Dataset features exploration.
 - Models exploration : Models exploration and tunning.
-- Model selection : Best model séléction.
+- Model selection : Best model selection.
 
 ---
 
